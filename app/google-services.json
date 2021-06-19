@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264160688188",
+    "firebase_url": "https://covid-19-andaman.firebaseio.com",
+    "project_id": "covid-19-andaman",
+    "storage_bucket": "covid-19-andaman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264160688188:android:1a56eba245cf3211646b39",
+        "android_client_info": {
+          "package_name": "com.amar.covid19andamanandnicobarislands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264160688188-jl7b11e1ijad57g97el1m1fabqgmnkka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amar.covid19andamanandnicobarislands",
+            "certificate_hash": "d48f7fe48ba236f02a56e46cd5790f47f3c775c7"
+          }
+        },
+        {
+          "client_id": "264160688188-bgv19alja5c88sk415011n612kajfvt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5iVSznQr9PHEZmx8E_pFUnBSTJBbEc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264160688188-bgv19alja5c88sk415011n612kajfvt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
